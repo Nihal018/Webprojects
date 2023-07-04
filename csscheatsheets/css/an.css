@@ -1,0 +1,81 @@
+/* font-family: 'Happy Monkey', cursive; */
+body{
+    font-family: 'Happy Monkey', cursive;
+    letter-spacing: 0.8px ;
+    word-spacing: 6px;
+    text-align: center;
+    background-color: #a2d2ff;
+    text-shadow: 0px 0px 1px black;
+    background: linear-gradient(#a2d2ff,#EFB0C9);
+    height: 1000px;
+
+
+}
+.header {
+    font-size: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    
+
+}
+
+
+.header .head{
+    font-size: 40px;
+}
+
+.head,#bdday-year,#bdday-date {
+    text-shadow: 0px 0px 1px black;
+
+}
+
+#bdday-year{
+    background-color: #EFB0C9;
+    border-radius: 6px;
+    padding: 8px 16px;
+    margin-bottom: 2px;
+    
+
+}
+
+
+
+
+#bdday-date{
+    background-color: #EFB0C9;
+    border-radius: 6px;
+    padding: 8px 16px;
+    margin-bottom: 2px;
+    margin-top: 7px;
+  
+}
+
+
+
+
+
+
+#Nihal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    
+
+    border-radius: 50%;
+    border: 7px solid #EFB0C9;
+
+}
+
+
+
+
+
+
+
+
+

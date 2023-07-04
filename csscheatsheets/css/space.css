@@ -1,0 +1,86 @@
+/*@font-face {
+    font-family: galaxy;
+    src: url(../images/SFDistantGalaxy.ttf);
+}
+*/
+
+body{
+  
+    color:rgb(22, 188, 186);
+    background-size:contain;
+    font-family: Orbitron,sans-serif;
+    font-weight: 1;
+    
+
+
+}
+
+.hero{
+    background-image: url("../images/galaxy.webp");
+    padding: 20px;
+
+
+
+    
+
+}
+
+#spacex{
+   width: 200px;
+    display: block;
+    padding: 5px;
+    margin:3px auto;
+   
+}
+
+.underline{
+    text-decoration:underline;
+}
+
+
+
+.main{
+
+
+    text-align: center;
+     
+    
+    font-size: large;
+ 
+    display: block;
+    margin-top: 50px;
+    margin-bottom:40px ;
+    margin-left: auto;
+    margin-right: auto
+
+}
+
+
+.main h1{
+    text-shadow: 4px 4px 4px black;
+     word-spacing: 10px;
+}
+
+
+.btn{
+    padding: 6px 12px;
+    border:none;
+    background:white;
+
+
+
+}
+
+.terms{
+    width: 400px;
+    color: crimson;
+
+ 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-shadow: -2px 2px 2px black;
+    letter-spacing: 2px;
+    word-spacing:7px;
+    
+}
